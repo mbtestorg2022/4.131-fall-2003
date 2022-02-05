@@ -4,41 +4,358 @@ title: Calendar
 uid: cacd9fac-248a-1111-c274-c45eefaa3231
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | **Show and Tell  {{< br >}}**Introduction to Studios |
-| 2 | **Project 1: Introduction** |
-| 3 | **All Studios - Field Trip** to T. Island |
-| 4 | **Pin Up** of First Individual Ideas/Concepts but in Groups |
-| 5 | **Group Esquisse**  {{< br >}}Hybridization  {{< br >}}Desk Crits |
-| 6 | **Group Presentations** of Design Strategies  {{< br >}}Assignment of Faculty |
-| 7, 8 | Research, Development and Testing |
-| 9 | Working Pin Ups with Faculty |
-| 10 | **Workshop  {{< br >}}**Prototype/Fabrication |
-| 11 | **Review of Group Work with Critics** |
-| 12 | **Project 2A: Introduction**  {{< br >}}Wellesley Visit  {{< br >}}Site Studies/Model |
-| 13 | Desk Crits |
-| 14 | Pin Up |
-| 15 | **Project 2B: Site and Material Studies** |
-| 16 | Tim Eliasson Lecture  {{< br >}}Pin-up with Tim Eliasson |
-| 17 | Trip to Tri-Pyramid, Concord |
-| 18 | Pin Up |
-| 19 | **Field Trip: Fort Worth** |
-| 20 | **Project 3 Concepts/Design Generation** |
-| 21 | Desk Crits |
-| 22 | **Pin-up with Guest Critics** |
-| 23 | **Project 3.2: Design Organization** |
-| 24 | Andrew Scott in St Louis  {{< br >}}Tony Hunt Lecture |
-| 25 | Desk Crits |
-| 26 | **Mid Project Review** |
-| 27 | **Project 4: Skin and Bones**  {{< br >}}Materials Language |
-| 28 | Desk Crits  {{< br >}}Peter Cook Lecture |
-| 29 | Peter del Tredici: Plants  {{< br >}}Desk Crits |
-| 30 | Desk Crits |
-| 31 | **Project 5: Prototype and Fabricate  {{< br >}}**Make and Test: Workshop  {{< br >}}Pin-up |
-| 32 | Desk Crits |
-| 33 | **Review**  {{< br >}}**Final Project:  {{< br >}}Design Synthesis/Presentation** |
-| 34 | Desk Crits |
-| 35, 36 | Mock-ups |
-| 37 | MArch Thesis Reviews |
-| 38 | **Final Review**
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+**Show and Tell  
+**Introduction to Studios
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 1: Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+**All Studios - Field Trip** to T. Island
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+**Pin Up** of First Individual Ideas/Concepts but in Groups
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+**Group Esquisse**  
+Hybridization  
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+**Group Presentations** of Design Strategies  
+Assignment of Faculty
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7, 8
+{{< tdclose >}}
+{{< tdopen >}}
+Research, Development and Testing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Working Pin Ups with Faculty
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+**Workshop  
+**Prototype/Fabrication
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+**Review of Group Work with Critics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 2A: Introduction**  
+Wellesley Visit  
+Site Studies/Model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Pin Up
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 2B: Site and Material Studies**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Tim Eliasson Lecture  
+Pin-up with Tim Eliasson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Trip to Tri-Pyramid, Concord
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Pin Up
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+**Field Trip: Fort Worth**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 3 Concepts/Design Generation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+**Pin-up with Guest Critics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 3.2: Design Organization**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Andrew Scott in St Louis  
+Tony Hunt Lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+**Mid Project Review**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 4: Skin and Bones**  
+Materials Language
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits  
+Peter Cook Lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Peter del Tredici: Plants  
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+**Project 5: Prototype and Fabricate  
+**Make and Test: Workshop  
+Pin-up
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+**Review**  
+**Final Project:  
+Design Synthesis/Presentation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35, 36
+{{< tdclose >}}
+{{< tdopen >}}
+Mock-ups
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+MArch Thesis Reviews
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+**Final Review**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
